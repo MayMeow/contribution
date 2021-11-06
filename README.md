@@ -1,4 +1,4 @@
-#  Contribution Guide
+#  :tada: Contribution Guide
 
 Hello all! Following are rules for contiibution guide for my repos
 
